@@ -1,6 +1,7 @@
 # PaddleNLP-wechaty-demo
 
 本例子展示一个基于 PaddleNLP + Wechaty 的微信情感识别机器人demo。通过Wechaty获取微信接收的消息，然后使用PaddleNLP的`TextCNN`模型对输入的文本进行情感判断，最终以微信消息的形式返回，实现对文本情感的识别。
+
 更多使用PaddleNLP案例与Wechaty碰撞有趣的火花等你来探索💥客服、闲聊、对诗、写作、彩虹屁，起名、对联、码代码等你来尝试～来PaddleNLP中尽情探索吧[PaddleNLP/examples](https://github.com/PaddlePaddle/PaddleNLP/tree/develop/examples)。
 
 ## 风险提示

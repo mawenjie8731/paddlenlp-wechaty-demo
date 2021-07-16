@@ -122,4 +122,5 @@ async def on_message(msg: Message):
 ```
 
 脚本成功运行后，所登陆的账号即可作为一个Chatbot，在发送需要判断情感的文本前加[Test]标识符，下图左侧的内容是Chatbot判断的结果。
+![image](https://user-images.githubusercontent.com/56876519/125900114-447c6f26-dca1-48f2-ad39-5eb4ea035677.png)
 

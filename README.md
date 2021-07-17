@@ -67,6 +67,7 @@
 6. Run the bot
 
    ```
+   cd examples
    python paddlenlp-chatbot.py
    ```
 

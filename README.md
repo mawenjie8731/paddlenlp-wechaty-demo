@@ -100,7 +100,7 @@ state_dict = paddle.load('./checkpoints/textcnn.pdparams')
 1. 消息类型是文字
 2. 文字信息以`[Test]`开头
 
-```python
+```
 async def on_message(msg: Message):
     """
     Message Handler for the Bot
